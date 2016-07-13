@@ -4,3 +4,5 @@ def defination1():
 def defination2():
 	print 'olo'
 
+def defination4():
+	print 'melol'
